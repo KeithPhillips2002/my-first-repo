@@ -48,7 +48,6 @@ body {
   transform: skewX(2deg) skewY(2deg);
 }
 
-
 .box span {
   position: absolute;
   top: 0;
